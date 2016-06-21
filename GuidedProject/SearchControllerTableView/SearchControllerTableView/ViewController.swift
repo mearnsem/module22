@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  SearchController
+//  SearchControllerTableView
 //
 //  Created by Emily Mearns on 6/21/16.
 //  Copyright © 2016 Emily Mearns. All rights reserved.
